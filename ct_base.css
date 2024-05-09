@@ -225,7 +225,8 @@ textarea {
 
 #photo1{
 	border-radius: 9px;
-	
+	border: 3px yellow solid;
+	box-shadow: 2px 2px 4px black;
 }
 
 
